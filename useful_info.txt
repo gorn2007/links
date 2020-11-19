@@ -2,6 +2,9 @@ Sid Meier's Civilization III Complete download path(registration on rutracker we
 https://rutracker.org/forum/viewtopic.php?t=5319055
 Program required to download files from rutracker(u(m)torrent):
 https://www.utorrent.com/intl/ru/downloads/complete/track/stable/os/win
+C:\Program Files\Civilization III Complete\Conquests\conquests.ini
+add into this file string KeepRes=1
+in order for the Civilization 3 program to keep initial screen resolution
 
 https://rutracker.org/forum/viewtopic.php?t=5258131
 https://rutracker.org/forum/viewtopic.php?t=5852674
