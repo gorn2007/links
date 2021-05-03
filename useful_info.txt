@@ -8,9 +8,6 @@ in order for the Civilization 3 program to keep initial screen resolution
 Я сумел построить 19 чудес света в игре Germany.SAV из репозитория civ, из них 18 в одном городе.
 Во время игры появилось 5 лидеров, из них один делающий возможным создание армии.
 
-https://rutracker.org/forum/viewtopic.php?t=5258131
-https://rutracker.org/forum/viewtopic.php?t=5852674
-
 http://www.xnview.org
 
 https://rutracker.org/forum/viewtopic.php?t=5252480
