@@ -1,3 +1,7 @@
+https://gargoylesoftware.com/
+https://www.joda.org/
+https://javadoc.io/static/net.minidev/json-smart/2.3/net/minidev/json/JSONObject.html
+http://opencsv.sourceforge.net/
 https://intuit.ru/
 
 Sid Meier's Civilization III Complete download path(registration on rutracker website is required to download the game):
