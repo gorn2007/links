@@ -5,9 +5,6 @@ https://www.bittorrent.com/ru/downloads/complete/classic/
 C:\Program Files\Civilization III Complete\Conquests\conquests.ini
 add into this file string KeepRes=1
 in order for the Civilization 3 program to keep initial screen resolution
-Я сумел построить 19 чудес света в игре Sid Meier's Civilization III Complete, из них 18 в одном городе.
-Во время игры появилось 5 лидеров, из них один делающий возможным создание армии.
-А сумели ли Вы в игре для смартфона Block Puzzle Sudoku набрать 2865 очков с первого раза? Я сумел.
 
 http://www.xnview.org
 
